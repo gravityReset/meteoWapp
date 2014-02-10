@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\obj\Release\split.scale-180.pri"			"resources.pri"
+"C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\obj\Release\PackageLayout\Assets\StoreLogo.scale-180.png"			"Assets\StoreLogo.scale-180.png"
+"C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\obj\Release\PackageLayout\Assets\Logo.scale-180.png"			"Assets\Logo.scale-180.png"

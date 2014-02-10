@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PCDEOUF</Machine>
+    <WindowsUser>lucas</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>43860lzientek.WhatToWear</PackageIdentityName>
+    <RegisteredManifestChecksum>4B6DD8A5A059F20313E58448D3A85A0E0F8FBF8D2DB3A22B65349C61846CE242</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43860lzientek.WhatToWear_1.1.0.2_neutral__sg5mzz04vrbzg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43860lzientek.WhatToWear_sg5mzz04vrbzg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43860lzientek.WhatToWear</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=05EA0B79-216F-4D2B-AAD2-5950D3751835</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-07T23:31:36.388</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\WTW.exe">
+      <PackagePath>WTW.exe</PackagePath>
+      <Modified>2013-12-07T23:36:37.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:04:44.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:02:42.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:07:52.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:12:53.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:19:18.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:15:37.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:23:43.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\3D-Glasses.png">
+      <PackagePath>im\3D-Glasses.png</PackagePath>
+      <Modified>2013-11-11T15:32:21.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:07:16.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:10:16.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T21:13:18.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-13T20:15:58.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\shirt2.png">
+      <PackagePath>im\shirt2.png</PackagePath>
+      <Modified>2013-11-13T18:59:29.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\shirt4.png">
+      <PackagePath>im\shirt4.png</PackagePath>
+      <Modified>2013-11-12T19:56:20.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\shirt3.png">
+      <PackagePath>im\shirt3.png</PackagePath>
+      <Modified>2013-11-12T09:53:56.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\short1.png">
+      <PackagePath>im\short1.png</PackagePath>
+      <Modified>2013-11-11T15:32:21.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\shirt1.png">
+      <PackagePath>im\shirt1.png</PackagePath>
+      <Modified>2013-11-11T15:32:21.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\men.png">
+      <PackagePath>im\men.png</PackagePath>
+      <Modified>2013-11-11T15:32:21.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\short2.png">
+      <PackagePath>im\short2.png</PackagePath>
+      <Modified>2013-11-13T19:08:50.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\short3.png">
+      <PackagePath>im\short3.png</PackagePath>
+      <Modified>2013-11-13T19:08:21.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\im\Umbrella.png">
+      <PackagePath>im\Umbrella.png</PackagePath>
+      <Modified>2013-11-11T15:32:21.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-13T20:39:47.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-12-07T23:36:37.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\polFlyout.xbf">
+      <PackagePath>polFlyout.xbf</PackagePath>
+      <Modified>2013-11-19T12:15:59.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\Settings.xbf">
+      <PackagePath>Settings.xbf</PackagePath>
+      <Modified>2013-11-13T20:39:47.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lucas\documents\visual studio 2013\Projects\WTW\WTW\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-07T23:31:35.731</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
