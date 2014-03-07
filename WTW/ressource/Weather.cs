@@ -20,12 +20,20 @@ namespace WTW.ressource
 
         private ObservableCollection<meteo> meteoP;
         public ObservableCollection<meteo> Meteo { get { return meteoP; } private set { meteoP = value; } }
-        public string City { get { return city; } set { city = value; OnPropertyChanged("City"); OnPropertyChanged("PaysFull"); } }
+        public string City
+        {
+            get { return city; }
+            set { city = value; OnPropertyChanged("City"); OnPropertyChanged("PaysFull"); }
+        }
         public string PaysFull
         {
-            get { return City + " " + Pays; }
+            get { return string.Format("{1} {2}", City , Pays); }
         }
-        public string Pays { get { return pays; } set { pays = value; OnPropertyChanged("Pays"); OnPropertyChanged("PaysFull"); } }
+        public string Pays
+        {
+            get { return pays; }
+            set { pays = value; OnPropertyChanged("Pays"); OnPropertyChanged("PaysFull"); }
+        }
 
         public Weather()
         {
